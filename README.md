@@ -25,7 +25,7 @@ Monitors top-tier client behavior, segment performance, revenue concentration, a
 
 ### 4. Product & Stock Analytics
 Analyzes inventory stock levels, category profitability, color performance, and geographic distribution across US states.
-![Product & Stock Analytics](Dashboard3.jpg)
+![Product & Stock Analytics](https://raw.githubusercontent.com/shahdsayedh2020246-source/Sales-Performance-Analytics-Hub/main/Dashboard3.png)
 
 ### 5. Insights & Recommendations
 Summarizes key findings, geographic revenue concentration, profit volatility, and strategic business recommendations.
